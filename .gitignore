@@ -46,8 +46,6 @@ data/raw/*.h5
 *.pkl
 *.joblib
 *.h5
-*.pt
-*.pth
 
 # Reports (generated)
 reports/figures/*.png
