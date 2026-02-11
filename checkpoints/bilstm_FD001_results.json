@@ -1,0 +1,18 @@
+{
+  "model": "bilstm",
+  "dataset": "FD001",
+  "timestamp": "2026-02-11T18:46:11.138727",
+  "metrics": {
+    "rmse": 5.2825366377203125,
+    "mae": 3.164353847503662,
+    "r2": 0.9835280776023865,
+    "mape": 6.512156607937904,
+    "nasa_score": 987.0872821135291,
+    "n_samples": 2063.0
+  },
+  "training": {
+    "epochs_trained": 50,
+    "best_val_loss": 37.694026947021484,
+    "total_time_minutes": 18.54321724176407
+  }
+}

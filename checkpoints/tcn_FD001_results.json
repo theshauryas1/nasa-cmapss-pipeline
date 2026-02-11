@@ -1,0 +1,18 @@
+{
+  "model": "tcn",
+  "dataset": "FD001",
+  "timestamp": "2026-02-11T17:49:04.704452",
+  "metrics": {
+    "rmse": 14.090076043794863,
+    "mae": 11.339584350585938,
+    "r2": 0.8828113079071045,
+    "mape": 19.867875194712404,
+    "nasa_score": 5526.769893865545,
+    "n_samples": 2063.0
+  },
+  "training": {
+    "epochs_trained": 10,
+    "best_val_loss": NaN,
+    "total_time_minutes": 2.325142951806386
+  }
+}
